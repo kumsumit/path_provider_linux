@@ -134,7 +134,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "5fe77a542273849f74fda6033f79dee607f83a2c"
+      resolved-ref: "651bf928de545c4bd4903d8a9515c22602874856"
       url: "https://github.com/kumsumit/path_provider_platform_interface.git"
     source: git
     version: "2.1.1"
@@ -259,11 +259,12 @@ packages:
   xdg_directories:
     dependency: transitive
     description:
-      name: xdg_directories
-      sha256: "589ada45ba9e39405c198fe34eb0f607cddb2108527e658136120892beac46d2"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "410932cf9651a439aa3e2c2f21098cc61e6daa8a"
+      url: "https://github.com/kumsumit/xdg_directories.git"
+    source: git
     version: "1.0.3"
 sdks:
-  dart: ">=3.1.0-185.0.dev <4.0.0"
-  flutter: ">=3.7.0"
+  dart: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.0"

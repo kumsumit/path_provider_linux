@@ -104,7 +104,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "5fe77a542273849f74fda6033f79dee607f83a2c"
+      resolved-ref: "651bf928de545c4bd4903d8a9515c22602874856"
       url: "https://github.com/kumsumit/path_provider_platform_interface.git"
     source: git
     version: "2.1.1"
